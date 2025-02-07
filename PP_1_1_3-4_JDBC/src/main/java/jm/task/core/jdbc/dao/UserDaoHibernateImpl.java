@@ -6,8 +6,6 @@ import org.hibernate.Session;
 import org.hibernate.Transaction; 
 import java.util.List;
 
-//Все методы
-
 public class UserDaoHibernateImpl implements UserDao {
     public UserDaoHibernateImpl() {
 
